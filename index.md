@@ -202,6 +202,7 @@ Signed:
 * Mathis Randl
 * Matt Hughes
 * Matthias Sperl
+* Matt Pickering
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
